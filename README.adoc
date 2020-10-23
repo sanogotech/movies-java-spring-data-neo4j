@@ -2,6 +2,7 @@ Movies Example Application
 ==========================
 
 - https://neo4j.com/developer/example-project/
+- https://programmer.help/blogs/spring-boot-neo4j-create-a-multi-point-network.html
 
 image:https://github.com/neo4j-examples/movies-java-spring-data-neo4j/workflows/build/badge.svg[Build Status,link=https://github.com/neo4j-examples/movies-java-spring-data-neo4j/actions]
 
